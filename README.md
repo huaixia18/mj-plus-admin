@@ -1,5 +1,5 @@
-# midjourney-proxy-admin
-[midjourney-proxy-plus](https://github.com/litter-coder/midjourney-proxy-plus) 的管理后台
+# midjourney-plus-admin
+[midjourney-plus](https://github.com/huaixia18/mj-plus.git) 的管理后台
 
 # 主要功能
 
@@ -97,10 +97,3 @@ ps -ef | grep npm
 ```sh
 kill -9 [进程id]
 ```
-
-# 联系我们
-
-问题咨询和商务合作可联系
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/manager-qrcode.jpeg" width="240" alt="微信二维码"/>
-
